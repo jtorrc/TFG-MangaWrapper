@@ -1,6 +1,6 @@
 # TFG – Solución web para el seguimiento y descubrimiento de obras literarias
 
-**Autor:** Juan Torres Contreras  
+**Autor:** Juan Torres  
 **Universidad:** Universidad de Huelva  
 **Nota:** 9.6/10  
 
