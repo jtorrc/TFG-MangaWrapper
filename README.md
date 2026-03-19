@@ -13,4 +13,4 @@ El sistema se compone de tres elementos:
 - **Plataforma web** (Django + PostgreSQL): gestión del catálogo personal y progreso de lectura
 - **Extensión de navegador** (Chrome): detección automática del capítulo leído y sincronización con el servidor
 
-📄 [Memoria del Proyecto](./Memoria-del-Proyecto.pdf)
+📄 [Memoria del Proyecto](./Memoria%20del%20proyecto.pdf)
